@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 860B-D5C8
-
- Directory of C:\Users\Mayur\Desktop\my project
-
-08-10-2021  18:08    <DIR>          .
-08-10-2021  18:08    <DIR>          ..
-08-10-2021  18:08                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  210,039,353,344 bytes free
+ My name is vaishali. 
